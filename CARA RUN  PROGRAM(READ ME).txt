@@ -1,0 +1,27 @@
+
+==================================================================================================
+			KELOMPOK 5 - TUGAS BESAR PEMROGRAMMAN WEB LANJUT
+==================================================================================================
+1	2020310020	Dede Riyanto
+2	2020330004	Agung Barokah
+3	2020320022	Andi Daffa Liefalza
+4	2020310058	Faqih Amirudin
+5	2020310037	Galan Abdilllah Zahran
+=================================================================================================
+			CARA UNTUK RUN SISTEM TOKO IKAN SEKTOR CHANNA	
+=================================================================================================						         
+                                                         
+1. Siapkan XAMPP
+2. Letakan folder source code pada C:\xampp\htdocs
+2. Nyalakan Apache dan Mysql dengan cara Klik Start 
+4. Buka PHPMyAdmin pada browser : http://localhost/phpmyadmin  
+5. Klik New Database, Untuk Membuat Database baru 
+6. Nama database : db_tokoikan
+7. Setelah itu silahkan lakukan Import Database 
+8. Setelah berhasil mengimport database,Silahkan membuka di browser : http://localhost/tokoikan                                                                                      |                                   	   |                                                                                         |
+Lalu buka di browser dengan :http://localhost/tokoikan	
+9. Akan muncul tampilan login 
+10. Silahkan masukan username dan password :
+Username : admin
+Password : admin123				  
+================================================================================================                                                                                |
